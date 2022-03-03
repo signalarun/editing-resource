@@ -1,2 +1,3 @@
-# editing-resource
-Documentation of free resources available for editing focused on graphics
+# Free Icons
+1. https://www.iconfinder.com/free_icons
+2. https://uxwing.com/
